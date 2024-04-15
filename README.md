@@ -50,9 +50,25 @@
 
 [![](https://visitcount.itsvg.in/api?id=pikkr&icon=2&color=12)](https://visitcount.itsvg.in)
 
-| Nombre   | Edad | Ciudad     |
-|----------|------|------------|
-| Juan     | 25   | Madrid     |
-| María    | 30   | Barcelona  |
-| Carlos   | 28   | Valencia   |
+<div>
 
+| Comando                                        | Descripción                                                                                   |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------|
+| `git clone <URL>`                          | Clona un repositorio remoto en tu máquina local.                                             |
+| `git add <archivo>`                        | Agrega cambios en un archivo al área de preparación para ser confirmados en el próximo commit.|
+| `git commit -m "<mensaje del commit>"`     | Confirma los cambios en el área de preparación con un mensaje descriptivo.                    |
+| `git push`                                 | Sube los cambios confirmados localmente a un repositorio remoto en GitHub.                    |
+| `git pull`                                 | Descarga y fusiona los cambios remotos en tu repositorio local.                               |
+
+
+</div>
+
+<div>
+    ### Comandos Útiles de Markdown
+
+| Comando Markdown   | Descripción                                                                                   |
+|---------------------|-----------------------------------------------------------------------------------------------|
+| `**Texto en negrita**`   | Aplica formato de negrita al texto.                                                          |
+| `![Texto alternativo](ruta/imagen.jpg)` | Inserta una imagen en el documento con texto alternativo en caso de que la imagen no se pueda mostrar. |
+
+</div>
