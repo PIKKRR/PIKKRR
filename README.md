@@ -16,7 +16,7 @@
 
 ⚡I am also a fan of **Anime**, **Esports** and **3D Design**.
  
-  💬 How to reach me pikkcsgo@gmail.com
+  💬 How to reach me antonio.casafer@gmail.com
 
   <br/>
 
