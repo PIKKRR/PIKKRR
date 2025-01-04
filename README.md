@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on Logistics. 
  
- 🌱 I’m currently learning **Back-End**, **Front-End** and **BBDD**
+ 🌱 I’m currently learning **Back-End**, **Front-End** and **Databases**
 
 <!--💬 Ask me about **Java, Python, SQL... or anything-->
 
