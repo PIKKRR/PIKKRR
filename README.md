@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Logistics. 
+ 🔭 I’m currently working in Telefónica Soluciones de Criptografía, S.A. 
  
  🌱 I’m currently learning **Back-End**, **Front-End** and **Databases**
 
