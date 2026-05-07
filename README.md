@@ -9,8 +9,6 @@
 <div align="center">
  
  🔭 I’m currently working in Telefónica Soluciones de Criptografía, S.A. 
- 
- 🌱 I’m currently learning **Back-End**, **Front-End** and **Databases**
 
 <!--💬 Ask me about **Java, Python, SQL... or anything-->
 
